@@ -1,0 +1,66 @@
+{
+	"LoginPage_Title":{
+		"loginpageTitle":"Facebook – log in or sign up"
+	},
+	"HomePage_Title":{
+		"pageTitle":"Facebook – log in or sign up"
+	},
+	
+	"logInCredential":{
+		"emailAddsPhoneNumber":"9124564060",
+		"password":"Surya@123456",
+		"FirstName":"Abhisek",
+		"surname":"mohanta",
+		"mobileNumberandpassword":"Abhi@12345",
+		"newPassword":"678965678"
+	},
+
+	"EmailOrPhoneNumber":{
+		"emailAddsPhoneNumber":"9124564060"
+	},
+	"password":{
+		"password":"abcde@12345"
+	},
+	"Incorrect_password":{
+		"incorrect_password_meassge":"The password that you've entered is incorrect."
+	},
+	"Incorrect_Username":{
+		"incorrect_username_meassge":"The email address you entered isn't connected to an account."
+	},
+	"Login_button":{
+		"Login_button_meassge":"Log in"
+	},
+
+	"Forgot_Password":{
+		"Forgot_Password_title":"Forgotten Password | Can't Log In | Facebook"
+	},
+
+	"login_page_title":{
+		"login_page_title_meassge":"Facebook"
+	},
+	"Sign_up_page":{
+		"Sign_up_page_title":"Facebook – log in or sign up"
+	},
+	"male_radio_button":{
+		"male_radio_button_title":"Male"
+	},
+	"Terms_link":{
+		"Terms_link_title":"Facebook"
+	},
+	"Data_Policy_link":{
+		"Data_Policy_link_title":"Meta Privacy Policy – How Meta collects and uses user data | Privacy Centre | Manage your privacy on Facebook, Instagram and Messenger | Facebook Privacy"
+	},
+	"error_message":{
+		"verify_error_message":"Enter a combination of at least six numbers, letters and punctuation marks (such as ! and &)."
+	},
+	"username_field":{
+		"username_field_Title":"Email address or phone number"
+	},
+	"errorMessage":{
+		"errorMessageText":"The email address or mobile number you entered isn't connected to an account. Find your account and log in.Find your account and log in."
+	},
+	"errorMessage1":{
+		"errorMessageText":"The password that you've entered is incorrect. Forgotten password?"
+	}
+}
+
